@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myworld" />
+        <module name="note" />
+        <module name="qiuzhao" />
+        <module name="springmvc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="myworld" target="1.8" />
+      <module name="note" target="1.8" />
+      <module name="qiuzhao" target="1.8" />
+      <module name="springmvc" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
